@@ -80,4 +80,4 @@ Enable interactive editing in the canvas view.
 Support multiple languages or customizable time slots.
 
 License 📜
-انتشار و استفاده از این پروژه با ذکر نام پدیدآورنده (Creator Credit) بدون مانع است.Publication and use are permitted with proper attribution to the creator. 😊
+Publication and use are permitted with proper attribution to the creator. 😊
